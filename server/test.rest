@@ -1,0 +1,17 @@
+###
+
+http://localhost/users
+
+###
+
+http://localhost/users/1
+
+
+###
+
+POST http://localhost:8001/ HTTP/1.1
+content-type: application/json
+
+{
+    "name": "11111"
+}
